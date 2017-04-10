@@ -1,5 +1,7 @@
 # date-extract
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tmcw/date-extract.svg)](https://greenkeeper.io/)
+
 Extract dates from free text
 
 ```js
